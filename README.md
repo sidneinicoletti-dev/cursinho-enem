@@ -1,19 +1,19 @@
-# NLW eSports
+# Cursinho ENEM
 
-![Preview](./.github/preview.png)
+![Preview](./github/preview.png)
 
-> Trilha Explorer
+> Descrição:
 
-Projeto desenvolvido no evento Next Level Week da Rocketseat. 
+Materias de geografia e história para o ENEM. 
 
-[🔗 Clique aqui para acessar](https://sidneinicoletti-dev.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar](https://sidneinicoletti-dev.github.io/cursinho-enem/)
 
-## 🚀 Tecnologias
+## 🚀 MATERIAS
 
-- HTML
-- CSS
-- Git e Github
+- PDF
+- Links
+- Quizzes
 
 ## 📲 Contato
 
-sidneinicoletti.dev@gmail.com
+sidneinicoletti.professor@gmail.com
